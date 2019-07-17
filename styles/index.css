@@ -832,7 +832,7 @@
 
 .sb-left-pane .e-listview .e-list-item.e-active {
     background-color: #d2ebff;
-    color: #000000;
+    color:#000000;
 }
 
 #controlTree .fabric .sb-left-pane .e-listview .e-list-item.e-active {
@@ -877,6 +877,7 @@
     position: absolute;
     padding-left: 5px;
     -webkit-overflow-scrolling: touch;
+    border: none;
 }
 
 .sb-control-list-top {

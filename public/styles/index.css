@@ -889,6 +889,7 @@
     top: 66px;
     height: calc(100% - 66px);
     -webkit-overflow-scrolling: touch;
+    border: none;
 }
 
 .sb-left-back {
@@ -912,6 +913,7 @@
 
 .sb-left-pane {
     overflow-x: hidden;
+    position: relative;
 }
 
 .property-section {

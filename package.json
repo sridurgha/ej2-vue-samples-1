@@ -10,7 +10,7 @@
   "keywords": [],
   "dependencies": {
     "@syncfusion/ej2": "*",
-    "@syncfusion/ej2-vue-barcodegenerator": "*",
+    "@syncfusion/ej2-vue-barcode-generator": "*",
     "@syncfusion/ej2-vue-base": "*",
     "@syncfusion/ej2-vue-buttons": "*",
     "@syncfusion/ej2-vue-calendars": "*",
@@ -53,12 +53,11 @@
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
-    "@syncfusion/ej2-build": "*",
     "@vue/cli-plugin-babel": "^3.7.0",
     "@vue/cli-plugin-typescript": "^3.7.0",
     "@vue/cli-service": "^3.7.0",
     "typescript": "^3.4.3",
-    "webpack":"^4.28.3",
+    "webpack": "^4.28.3",
     "vue-template-compiler": "^2.5.21",
     "file-loader": "^1.1.11",
     "gulp": "^3.9.1",

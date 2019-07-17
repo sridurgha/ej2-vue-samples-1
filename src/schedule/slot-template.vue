@@ -5,7 +5,6 @@
     </div>
 </div>
 </template>
-
 <script lang='ts'>
     import { Internationalization } from '@syncfusion/ej2-base';
 
